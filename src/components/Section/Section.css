@@ -1,0 +1,18 @@
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1200px;
+}
+.wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cards{
+    text-align: center;
+    margin: 20px;
+}
+.hh2{
+    text-align: center;
+    margin: 50px;
+}
